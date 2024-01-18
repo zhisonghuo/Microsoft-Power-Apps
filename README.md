@@ -1,6 +1,6 @@
-# Microsoft Power Apps PortfolioS
+# Microsoft Power Apps Portfolios
 
-Welcome to my Power Apps PortfolioS! This repository is dedicated to showcasing my expertise in developing custom applications using Microsoft Power Apps. Here, you will find a range of projects that demonstrate my ability to create intuitive, efficient, and impactful business applications.
+Welcome to my Power Apps Portfolios! This repository is dedicated to showcasing my expertise in developing custom applications using Microsoft Power Apps. Here, you will find a range of projects that demonstrate my ability to create intuitive, efficient, and impactful business applications.
 
 ## About Me
 
