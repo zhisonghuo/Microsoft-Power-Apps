@@ -4,7 +4,7 @@ Welcome to my Power Apps Portfolios! This repository is dedicated to showcasing 
 
 ## About Me
 
-I am an experienced freelancer specializing in Microsoft Power Platform, with a particular focus on Power Apps in this repository. My background encompasses a blend of technical proficiency and business acumen, enabling me to deliver solutions that are not only technically sound but also aligned with business objectives.
+I am an experienced Upwork freelancer specializing in Microsoft Power Platform, with a particular focus on Power Apps in this repository. My background encompasses a blend of technical proficiency and business acumen, enabling me to deliver solutions that are not only technically sound but also aligned with business objectives.
 
 ## Certifications
 
